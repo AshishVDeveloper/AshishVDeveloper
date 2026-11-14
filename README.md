@@ -83,7 +83,7 @@ class AsheeshVishwakarma
 | Project | What it is | Stack | Status |
 |---|---|---|---|
 | 📦 **Order Management System** | End-to-end order handling — order intake, processing, tracking and reporting | — | 🟡 In development |
-| 🤝 **Metso CRM** | CRM to manage leads, customers and sales activity | — | 🟡 In development |
+| 🤝 **[Metso CRM](https://metso.aonesalasar.com/login)** | CRM to manage leads, customers and sales activity | — | 🟡 In development |
 | 🧵 **Garment ERP** | ERP for the garment industry — production, inventory, orders and operations, with a built-in **🎙️ AI voice assistant** | Python **FastAPI** · **React** · **PostgreSQL** | 🟡 In development |
 
 <details>
@@ -107,7 +107,7 @@ class AsheeshVishwakarma
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| 👥 **Client Hub** | Central portal to manage clients, their details and interactions in one place | PHP · MySQL | 🟢 Completed |
+| 👥 **[Client Hub](https://client-hub.aonesalasar.com/login)** | Central portal to manage clients, their details and interactions in one place | PHP · MySQL | 🟢 Completed |
 | 🛒 **[Jiami.in](https://jiami.in/dev)** | Full eCommerce store — product catalogue, auth, cart & checkout, payment gateway | Laravel / CodeIgniter · MySQL | 🟢 Completed |
 
 ## 🧪 Side Projects
