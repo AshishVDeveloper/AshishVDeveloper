@@ -36,7 +36,7 @@ class AsheeshVishwakarma
 
     public array $expertise = ['Laravel', 'CodeIgniter 4', 'Core PHP', 'MySQL', 'REST APIs'];
     public array $builds    = ['CRM', 'ERP', 'eCommerce', 'Booking', 'Event Portals'];
-    public array $exploring = ['Python', 'FastAPI', 'Django', 'React', 'TypeScript'];
+    public array $alsoUsing = ['Python', 'FastAPI', 'React', 'PostgreSQL', 'AI voice assistants'];
 
     public function motto(): string
     {
@@ -48,7 +48,7 @@ class AsheeshVishwakarma
 - 🔭 **20+ projects** delivered across CRM, ERP, eCommerce, booking and event domains
 - 🔗 Integrated **Razorpay**, **IndiaMART** and other third-party APIs, plus mobile-app REST APIs
 - ⚡ Optimised front-end and server-side code to cut page-load times
-- 🌱 Currently levelling up in **Python (FastAPI / Django)**, **React** and **TypeScript**
+- 🤖 Building a **Garment ERP** with **Python FastAPI + React + PostgreSQL** and an **AI voice assistant**
 - 👔 **Senior Software Developer & Team Lead** at **A One Salasar Pvt Ltd**, Thane
 - 💼 Open to **freelance** work: websites, CRM/ERP development, maintenance & enhancement
 - 📫 Reach me at **av.developer73@gmail.com**
@@ -60,7 +60,7 @@ class AsheeshVishwakarma
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,tailwind,wordpress&perline=9" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,ts,git,github,vscode,linux&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,ts,postgres,git,github,vscode,linux&perline=10" />
 </p>
 
 <p align="center">
@@ -76,11 +76,28 @@ class AsheeshVishwakarma
 
 ## 🚧 Currently Working On
 
-| Project | What it is | Status |
-|---|---|---|
-| 📦 **Order Management System** | End-to-end order handling — order intake, processing, tracking and reporting | 🟡 In development |
-| 🤝 **Metso CRM** | CRM to manage leads, customers and sales activity | 🟡 In development |
-| 🧵 **Garment ERP** | ERP for the garment industry — production, inventory, orders and operations | 🟡 In development |
+| Project | What it is | Stack | Status |
+|---|---|---|---|
+| 📦 **Order Management System** | End-to-end order handling — order intake, processing, tracking and reporting | — | 🟡 In development |
+| 🤝 **Metso CRM** | CRM to manage leads, customers and sales activity | — | 🟡 In development |
+| 🧵 **Garment ERP** | ERP for the garment industry — production, inventory, orders and operations, with a built-in **🎙️ AI voice assistant** | Python **FastAPI** · **React** · **PostgreSQL** | 🟡 In development |
+
+<details>
+<summary><b>🧵 Garment ERP — technical overview</b></summary>
+<br/>
+
+```text
+┌──────────────────────┐     REST / JSON      ┌───────────────────────┐      SQL      ┌──────────────┐
+│  React frontend (UI) │ ───────────────────▶ │  FastAPI backend (Py) │ ────────────▶ │  PostgreSQL  │
+│  + 🎙️ voice assistant │ ◀─────────────────── │  APIs & business logic│ ◀──────────── │   database   │
+└──────────────────────┘                      └───────────────────────┘               └──────────────┘
+```
+
+- **Frontend:** React single-page app for the ERP modules, with an AI voice assistant built into the interface
+- **Backend:** Python FastAPI serving the REST APIs and business logic
+- **Database:** PostgreSQL
+
+</details>
 
 ## ✅ Recently Completed
 
