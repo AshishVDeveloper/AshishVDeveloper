@@ -21,7 +21,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack PHP Developer** from **Airoli, Navi Mumbai** 🇮🇳 with **4+ years** of professional experience building real-world business software — multi-company **CRMs**, **ERPs**, **eCommerce** stores, booking platforms and event portals.
+I'm a **Full-Stack Developer** from **Airoli, Navi Mumbai** 🇮🇳 with **4+ years** of professional experience building real-world business software — multi-company **CRMs**, **ERPs**, **eCommerce** stores, booking platforms and event portals.
+
+I work across **PHP** (Laravel, CodeIgniter), **Python** (FastAPI, Django) and **JavaScript** (React, Node.js), with MySQL and PostgreSQL underneath.
 
 ```php
 <?php
@@ -36,7 +38,9 @@ class AsheeshVishwakarma
 
     public array $expertise = ['Laravel', 'CodeIgniter 4', 'Core PHP', 'MySQL', 'REST APIs'];
     public array $builds    = ['CRM', 'ERP', 'eCommerce', 'Booking', 'Event Portals'];
-    public array $alsoUsing = ['Python', 'FastAPI', 'React', 'PostgreSQL', 'AI voice assistants'];
+    public array $python    = ['Python', 'FastAPI', 'Django'];
+    public array $js        = ['React', 'Node.js', 'TypeScript'];
+    public array $data      = ['MySQL', 'PostgreSQL'];
 
     public function motto(): string
     {
@@ -60,7 +64,7 @@ class AsheeshVishwakarma
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,tailwind,wordpress&perline=9" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,ts,postgres,git,github,vscode,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,nodejs,ts,postgres,git,github,linux&perline=10" />
 </p>
 
 <p align="center">
