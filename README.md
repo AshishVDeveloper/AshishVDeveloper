@@ -258,6 +258,18 @@ Camping & tent booking by location — order processing, online payments and man
   <a href="https://wa.me/919004200401"><img src="https://img.shields.io/badge/+91_9004200401-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
+---
+
+## ☕ Support My Work
+
+<p align="center">
+  If my projects or code helped you, you can buy me a chai via UPI 🙏<br/><br/>
+  <img src="./assets/upi-qr.png" alt="UPI QR code" width="200" /><br/>
+  <b>UPI ID:</b> <code>9004200401@kotakbank</code><br/>
+  <sub>Scan with GPay, PhonePe, Paytm or any UPI app</sub><br/><br/>
+  <a href="https://ashishvdeveloper.github.io/portfolio/#support"><img src="https://img.shields.io/badge/Donate-UPI-1FA2FF?style=for-the-badge&logo=googlepay&logoColor=white" /></a>
+</p>
+
 <p align="center"><i>“Turning ideas into digital solutions.”</i> ✨</p>
 
 <p align="center">
