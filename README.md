@@ -45,7 +45,7 @@ class AsheeshVishwakarma
 }
 ```
 
-- 🔭 **15+ live projects** delivered across CRM, ERP, eCommerce, booking and event domains
+- 🔭 **20+ projects** delivered across CRM, ERP, eCommerce, booking and event domains
 - 🔗 Integrated **Razorpay**, **IndiaMART** and other third-party APIs, plus mobile-app REST APIs
 - ⚡ Optimised front-end and server-side code to cut page-load times
 - 🌱 Currently levelling up in **Python (FastAPI / Django)**, **React** and **TypeScript**
@@ -76,12 +76,25 @@ class AsheeshVishwakarma
 
 ## 🚧 Currently Working On
 
+| Project | What it is | Status |
+|---|---|---|
+| 📦 **Order Management System** | End-to-end order handling — order intake, processing, tracking and reporting | 🟡 In development |
+| 🤝 **Metso CRM** | CRM to manage leads, customers and sales activity | 🟡 In development |
+| 🧵 **Garment ERP** | ERP for the garment industry — production, inventory, orders and operations | 🟡 In development |
+
+## ✅ Recently Completed
+
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| 🛒 **[Jiami.in](https://jiami.in/dev)** | Full eCommerce store — product catalogue, auth, cart & checkout, payment gateway | Laravel / CodeIgniter · MySQL | 🟡 In development |
-| 🚚 **[Logisync CRM](https://logisync.app)** | Logistics CRM for managing business operations end-to-end | Laravel · MySQL | 🟢 Live |
-| 💌 **[Shubh Vivah Nimantran](https://github.com/AshishVDeveloper/dhiraj)** | Digital Hindi wedding invitation — personalised cards per guest, bulk PDF/image + ZIP export, direct WhatsApp sharing | HTML · JavaScript | 🟢 Live |
-| 🪔 **[Diwali Greetings + Games](https://github.com/AshishVDeveloper/test_web)** | Personalised greeting pages with signed links & QR codes (single + bulk CSV/JSON), plus browser games incl. peer-to-peer multiplayer Snake | HTML · JavaScript · PeerJS | 🟢 Live |
+| 👥 **Client Hub** | Central portal to manage clients, their details and interactions in one place | PHP · MySQL | 🟢 Completed |
+| 🛒 **[Jiami.in](https://jiami.in/dev)** | Full eCommerce store — product catalogue, auth, cart & checkout, payment gateway | Laravel / CodeIgniter · MySQL | 🟢 Completed |
+
+## 🧪 Side Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| 💌 **[Shubh Vivah Nimantran](https://github.com/AshishVDeveloper/dhiraj)** | Digital Hindi wedding invitation — personalised cards per guest, bulk PDF/image + ZIP export, direct WhatsApp sharing | HTML · JavaScript |
+| 🪔 **[Diwali Greetings + Games](https://github.com/AshishVDeveloper/test_web)** | Personalised greeting pages with signed links & QR codes (single + bulk CSV/JSON), plus browser games incl. peer-to-peer multiplayer Snake | HTML · JavaScript · PeerJS |
 
 ---
 
@@ -150,6 +163,7 @@ Camping & tent booking by location — order processing, online payments and man
 
 | Project | Type | Stack |
 |---|---|---|
+| [Logisync CRM](https://logisync.app) | Logistics CRM | Laravel · MySQL |
 | [Khemandas ERP](https://khemandas.iresolveservices.com/index) | ERP – inventory, orders, workflows | PHP · MySQL |
 | [Tucana Lights](https://tucanalights.com/) | Lighting eCommerce | PHP · MySQL |
 | [AFMT India](https://afmtindia.com/) | Corporate web app | PHP · MySQL |
