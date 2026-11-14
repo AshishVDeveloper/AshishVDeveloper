@@ -217,6 +217,13 @@ Camping & tent booking by location — order processing, online payments and man
 | 🎓 **Master of Computer Application (MCA)** | Idol College, Kalina, Mumbai | Mumbai University |
 | 💻 **B.Sc. Information Technology** (2020) | JK College of Science & Commerce, Ghansoli | Mumbai University |
 
+### 📜 Certifications
+
+| Certificate | Issued by |
+|---|---|
+| 🛡️ **Ethical Hacking** | NPTEL |
+| 🗄️ **Database Management System** | NPTEL |
+
 ---
 
 ## 🧰 Services I Offer
