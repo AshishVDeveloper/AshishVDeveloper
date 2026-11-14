@@ -237,14 +237,14 @@ Camping & tent booking by location — order processing, online payments and man
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AshishVDeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishVDeveloper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" alt="GitHub profile details" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AshishVDeveloper&theme=tokyonight&hide_border=true" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180" alt="Most used languages" />
 </p>
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshishVDeveloper&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://streak-stats.demolab.com?user=AshishVDeveloper&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
