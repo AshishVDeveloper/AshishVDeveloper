@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** from **Airoli, Navi Mumbai** 🇮🇳 with **4+ years** of professional experience building real-world business software — multi-company **CRMs**, **ERPs**, **eCommerce** stores, booking platforms and event portals.
+I'm a **Full-Stack Developer** from **Airoli, Navi Mumbai** 🇮🇳 with **4+ years** of professional experience building real-world business software - multi-company **CRMs**, **ERPs**, **eCommerce** stores, booking platforms and event portals.
 
 I work across **PHP** (Laravel, CodeIgniter), **Python** (FastAPI, Django) and **JavaScript** (React, Node.js), with MySQL and PostgreSQL underneath.
 
